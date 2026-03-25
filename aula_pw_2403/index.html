@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Calculadora || Alexandre</title>
+</head>
+<body>
+    <h1>Minha calculadora legal</h1>
+
+    <p>Informe o primeiro valor</p>
+    <input type="number" id="primeiro_numero">
+
+    <p>Informe o segundo valor</p>
+    <input type="number" id="segundo_numero">
+    
+    <br>
+    <br>
+
+    <div style="display:flex;" id="div">
+        <button onclick="somar()">Somar</button>
+        <button onclick="subtrair()">Subtrair</button>
+        <button onclick="multiplicar()">Multiplicar</button>
+        <button onclick="dividir()">Dividir</button>
+    </div>
+    <br>
+    <p id="resultado">Resultado será exposto aqui :)</p>
+
+    <script src="script.js"></script>
+</body>
+</html>
