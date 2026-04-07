@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Atividade 2</title>
+</head>
+<body id="body">
+
+    <div id="hud_escolha">
+        <button onclick="mostrar_campo_calculo('quadrado')">Quadrado</button>
+        <button onclick="mostrar_campo_calculo('retangulo')">Retângulo</button>            
+        <button onclick="mostrar_campo_calculo('triangulo')">Triângulo</button>
+        <button onclick="mostrar_campo_calculo('circulo')">Círculo</button>
+    </div>
+    
+    <div id="quadrado">
+        <form id="form_quadrado">
+            <label for="lado_quadrado">Lado:</label>
+            <input type="number" id="lado_quadrado" required>
+
+            <button type="submit">Calcular</button>
+        </form>
+    </div>
+
+    <div id="retangulo">
+        <form id="form_retangulo">
+            <label for="base_retangulo">Base:</label>
+            <input type="number" id="base_retangulo" required>
+            
+            <label for="altura_retangulo">Altura:</label>
+            <input type="number" id="altura_retangulo" required>
+            
+            <button type="submit">Calcular</button>
+        </form>
+    </div>
+    
+    <div id="triangulo">
+        <form id="form_triangulo">
+            <label for="base_retangulo">Base:</label>
+            <input type="number" id="base_triangulo" required>
+            
+            <label for="altura_retangulo">Altura:</label>
+            <input type="number" id="altura_triangulo" required>
+            
+            <button type="submit">Calcular</button>
+        </form>
+    </div>
+
+    <div id="circulo">
+        <form id="form_circulo">
+            <label for="raio">Raio:</label>
+            <input type="number" id="raio" required>
+            
+            <button type="submit">Calcular</button>
+        </form>
+    </div>
+
+<p>Resposta:</p>
+<p id="resposta"></p>
+</body>
+<script src="script.js"></script>
+</html>

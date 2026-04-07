@@ -1,0 +1,29 @@
+* {
+    background-color: #160016;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+button {
+    border: 1px solid #fffed6;
+    color: #ffffe9;
+    border-radius: 30px;
+    padding: 10px;
+    width: 120px;
+    margin: 10px;
+}
+
+#hud_escolha {
+    display: flex;
+    width: auto;
+    justify-content: center;
+}
+
+input {
+    border: 1px solid #fffed6;
+    border-radius: 5px;
+    color: #ffffe9;
+}
+
+label, p {
+    color: #ffffe9;
+}
