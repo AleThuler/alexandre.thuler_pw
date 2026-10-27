@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e37b5246-ed2b-4d63-9e83-7e6751f5d256" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/src/main/java/com/alethuler/crud/Controllers/FuncionarioController.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/src/main/java/com/alethuler/crud/Database/Entitys/Funcionario.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/crud/src/main/java/com/alethuler/crud/Database/Repository/FuncionarioRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/crud/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/crud/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/sql/script.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/main/java/com/github/alethuler/crud/CrudApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/java/com/alethuler/crud/CrudApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/crud/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/crud/src/main/resources/application.properties" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="jdkForImporter" value="liberica-full-21" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="McpProjectServerCommands">
+    <commands />
+    <urls />
+  </component>
+  <component name="NextEditCompletionFeaturesState">
+    <decayedCancelled>
+      <entry key="MS100" value="6.795014593693427E-49" />
+      <entry key="MS500" value="2.3250809547049632E-10" />
+      <entry key="S2" value="0.0039048964314820664" />
+      <entry key="S5" value="0.10880373600610331" />
+      <entry key="S10" value="0.3298628074519048" />
+      <entry key="S30" value="0.7233805110608326" />
+      <entry key="S60" value="1.110294520969011" />
+      <entry key="M2" value="2.32761737570176" />
+      <entry key="M5" value="8.104037385911186" />
+      <entry key="M10" value="15.040433611757063" />
+      <entry key="M15" value="18.91649727097072" />
+      <entry key="M30" value="24.072467248856807" />
+      <entry key="H1" value="27.27670340293632" />
+      <entry key="H2" value="29.06791979115544" />
+      <entry key="H4" value="30.015601510705828" />
+      <entry key="D1" value="30.833317274724823" />
+      <entry key="W1" value="30.976123221722023" />
+    </decayedCancelled>
+    <decayedSelected>
+      <entry key="MS100" value="1.0" />
+      <entry key="MS500" value="1.0" />
+      <entry key="S2" value="1.0" />
+      <entry key="S5" value="1.0000000096742405" />
+      <entry key="S10" value="1.000216751481626" />
+      <entry key="S30" value="1.2042444882569485" />
+      <entry key="S60" value="2.2127110280839184" />
+      <entry key="M2" value="4.310359865604081" />
+      <entry key="M5" value="8.159401751719097" />
+      <entry key="M10" value="10.814991553517894" />
+      <entry key="M15" value="11.99692569178757" />
+      <entry key="M30" value="13.378238029916394" />
+      <entry key="H1" value="14.156155457952467" />
+      <entry key="H2" value="14.56944001063446" />
+      <entry key="H4" value="14.782508712685093" />
+      <entry key="D1" value="14.963439816698582" />
+      <entry key="W1" value="14.99476942520244" />
+    </decayedSelected>
+    <decayedShown>
+      <entry key="MS100" value="0.004334255750265019" />
+      <entry key="MS500" value="0.3368083944422594" />
+      <entry key="S2" value="0.7656849263477341" />
+      <entry key="S5" value="1.0053756132006255" />
+      <entry key="S10" value="1.2766217692109216" />
+      <entry key="S30" value="1.8995021623298651" />
+      <entry key="S60" value="3.279357616960709" />
+      <entry key="M2" value="6.58165205155339" />
+      <entry key="M5" value="16.210956381557533" />
+      <entry key="M10" value="25.8171547199594" />
+      <entry key="M15" value="30.884076547383827" />
+      <entry key="M30" value="37.43369680775259" />
+      <entry key="H1" value="41.423675242193426" />
+      <entry key="H2" value="43.632584413285535" />
+      <entry key="H4" value="44.79567479094732" />
+      <entry key="D1" value="45.796344392949074" />
+      <entry key="W1" value="45.97083352147245" />
+    </decayedShown>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 2,
+  "fromUser": false
+}]]></component>
+  <component name="ProjectId" id="3LHxVgOz3BiYTRNtJMSojAIvAlZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CrudApplication.executor": "Run",
+    "Maven.crud [compile].executor": "Run",
+    "Maven.crud [install].executor": "Run",
+    "Maven.crud [test].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.MCP Project settings loaded": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.CrudApplication.executor": "Run",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Camargo/Desktop/alexandre.thuler_pw/aula_pw_10-20",
+    "nodejs_package_manager_path": "npm",
+    "project.structure.last.edited": "SDKs",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.settings.project.maven.importing"
+  }
+}]]></component>
+  <component name="RunAnythingCache">
+    <option name="myCommands">
+      <command value="mvn install" />
+      <command value="mvn test" />
+      <command value="mvn compile" />
+    </option>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-37e91769500f-intellij.indexing.shared.core-IU-261.25134.95" />
+        <option value="bundled-js-predefined-d6986cc7102b-31caf2ab9e3c-JavaScript-IU-261.25134.95" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e37b5246-ed2b-4d63-9e83-7e6751f5d256" name="Changes" comment="" />
+      <created>1793124820052</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1793124820052</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
